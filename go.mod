@@ -1,4 +1,4 @@
-module github.com/alisholihin/golib
+module github.com/alisholihindev/golib
 
 go 1.19
 
